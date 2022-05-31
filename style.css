@@ -98,7 +98,6 @@ div .moedas td {
 /*Formatação do footer*/
 .footer {
     display: flex;
-    flex-flow: row wrap;
     padding: 50px;
     color: #fff;
     background-color: #022268;
@@ -110,7 +109,7 @@ div .moedas td {
     height: 150px;
 }
 
-.footer [class=l-footer] img {
+.footer img {
     color: #ecedea;
 	border-radius: 50%;
     width: 50px;
@@ -118,5 +117,5 @@ div .moedas td {
 
 .container {
     float:right; 
-    width:80%;
+    width:50%;
 }
