@@ -75,7 +75,6 @@ div [class=acoes] td {
 /* Formatação da tabela de moedas */
 div [class=coins] {
     margin-top: 20px;
-    border-collapse: collapse;
     margin: 20px 0;
     font-size: 18px;
     min-width: 500px;
