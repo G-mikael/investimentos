@@ -58,6 +58,7 @@ div [class=acoes] {
     min-width: 500px;
     margin: auto;
     border-radius: 5px;
+    text-allign: center;
 }
 
 div [class=acoes] th {
@@ -80,6 +81,7 @@ div [class=coins] {
     min-width: 500px;
     margin: auto;
     border-radius: 5px;
+    text-allign: center;
 }
 
 div [class=coins] th {
